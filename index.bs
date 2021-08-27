@@ -117,18 +117,24 @@ g g:hover text {
 <!--[if lt IE 9]><script src='undefined://www.w3.org/2008/site/js/html5shiv.js'></script><![endif]-->
 
 <h2 class="no-num no-toc no-ref" id="pp">
-Relation of Process Document to Patent Policy</h2>
+Relation of Process Document to Patent Policy and Other Policies</h2>
 
 	W3C Members' attention is called to the fact
 	that provisions of the Process Document are binding on Members
 	per the <a href="https://www.w3.org/Consortium/Agreement/Member-Agreement">Membership Agreement</a> [[MEMBER-AGREEMENT]].
 	The <a href="https://www.w3.org/Consortium/Patent-Policy/">W3C Patent Policy</a> [[!PATENT-POLICY]]
-	is incorporated by normative reference as a part of the Process Document,
-	and is thus equally binding.
+	and other policies
+	incorporated by normative reference as a part of the Process Document
+	are thus equally binding.
+	These policies are written with the intent that there be no conflict,
+	but in the event that one exists,
+	the Member Agreement takes precedence over the Patent Policy,
+	which takes precedence over this Process,
+	which takes precedence over any <a href="#normative">other normative references</a>.
 
-	The Patent Policy places additional obligations on Members, Team, and other participants in W3C.
+	The Patent Policy and CEPC place additional obligations on Members, Team, and other participants in W3C.
 	The Process Document does not restate those requirements but includes references to them.
-	The Process Document and Patent Policy have been designed to allow them to evolve independently.
+	The Process Document, Patent Policy, and CEPC have been designed to allow them to evolve independently.
 
 	In the Process Document, the term “participant” refers to an individual, not an organization.
 
